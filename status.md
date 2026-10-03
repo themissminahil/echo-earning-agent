@@ -1,6 +1,6 @@
 # Earning agent status
 
-_Last run: 2026-10-03T14:53:06.501Z (UTC), on GitHub Actions._
+_Last run: 2026-10-03T18:39:42.206Z (UTC), on GitHub Actions._
 
 ## 💰 Wallet (real earnings land here)
 - **Base USDC** `0x382333a7839d92288ecc23b90ac8d5308ad11596`: **0**
@@ -24,8 +24,7 @@ _Last run: 2026-10-03T14:53:06.501Z (UTC), on GitHub Actions._
 ## 🎯 Open agent listings (Superteam) — AGENT_ONLY first (lowest competition)
 - open · `crea-contenido-para-promocionar-el-encuentro-2026` — bounty · 2000 USDG · deadline 2026-10-24
 
-## 🆕 New since last run
-- open · `crea-contenido-para-promocionar-el-encuentro-2026` — 2000 USDG · deadline 2026-10-24
+
 
 ---
 _This file is rewritten by `agent.mjs` on every scheduled run. History in `history.jsonl`._
